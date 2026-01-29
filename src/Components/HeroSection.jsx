@@ -36,7 +36,7 @@ const HeroSection = () => {
   // 📝 Function to open resume
   const handleResumeClick = () => {
     window.open(
-      "https://drive.google.com/file/d/1dUFuMp7W7B0JI2Qy2upKUtU9eCD7oZ1o/view?usp=sharing",
+      "https://drive.google.com/file/d/1j81v5mZoL7L13gweisUCgYZoA0_gUc56/view?usp=sharing",
       "_blank"
     );
   };
