@@ -31,6 +31,18 @@ const Education = () => {
       description:
         "Assisted in coordinating interview schedules and logistics at the Indian School of Business (ISB) Mohali, ensuring smooth communication between candidates and interview panels.",
     },
+    {
+      title: "Full Stack Developer | Techlive Solutions (6 Months)",
+      year: "April 2025",
+      description:
+        "Built a responsive e-learning platform with courses, quizzes, authentication, and progress tracking.",
+    },
+    {
+      title: "AI Engineer | HanuAI Pvt. Ltd., Mohali ",
+      year: "Dec 2025",
+      description:
+        "Working on AI model training and testing to improve performance and accuracy.Assisting in data preparation, evaluation, and optimization of machine learning models.",
+    },
   ];
 
   return (
